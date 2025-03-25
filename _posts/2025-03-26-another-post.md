@@ -1,7 +1,10 @@
-
 ---
 layout: post
-title: "My Second Blog Post"
+title: "My Fourth Blog Post"
 date: 2025-03-25
+permalink: /my-third-post/
 ---
-This is my another blog post using GitHub Pages and Jekyll!
+
+# My Fourth Blog Post
+
+Welcome to my Fourth blog post! This is an example of how it will look.
