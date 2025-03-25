@@ -2,10 +2,9 @@
 layout: post
 title: "My First Blog Post"
 date: 2025-03-25
-description: "This is my first blog post!"
 permalink: /my-first-post/
 ---
 
-## Welcome to My First Blog
+# My First Blog Post
 
-This is my first blog post using GitHub Pages and Jekyll.
+Welcome to my first blog post! This is an example of how it will look.
