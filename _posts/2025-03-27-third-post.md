@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: "My Third Blog Post"
-date: 2025-03-27
-permalink: /third-post/
+date: 2025-03-25
+permalink: /my-third-post/
 ---
 
 # My Third Blog Post
 
-This is my third blog post with more content.
+Welcome to my Third blog post! This is an example of how it will look.
