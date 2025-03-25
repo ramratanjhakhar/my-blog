@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "My Second Blog Post"
-date: 2025-03-26
+title: "My Third Blog Post"
+date: 2025-03-25
 permalink: /my-second-post/
 ---
 
-# My Second Blog Post
+# My second Blog Post
 
-This is my second blog post with more content.
+Welcome to my second blog post! This is an example of how it will look.
