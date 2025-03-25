@@ -1,7 +1,8 @@
 title: "My Blog"
 description: "A simple blog using GitHub Pages"
 theme: minima
-baseurl: "/my-blog" # IMPORTANT! Add this
-url: "https://ramratanjhakhar.github.io"
+baseurl: "/my-blog"  # Add this line
+url: "https://ramratanjhakhar.github.io"  # Your GitHub Pages URL
+
 plugins:
   - jekyll-feed
