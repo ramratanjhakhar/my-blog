@@ -1,14 +1,9 @@
 ---
 layout: post
-title: "Why Modern Businesses Need Custom Software Development"
-description: "Discover the benefits of custom software development for businesses, including scalability, security, and cost-efficiency. Learn why tailor-made solutions are the future."
-author: "Your Name"
-date: "2025-03-28"
-categories: [Software Development, Business, Technology]
-tags: [Custom Software, Business Growth, Software Development]
+title: "My Third Blog Post"
+date: 2025-03-28
 permalink: /my-details-post/
 ---
-
 # Why Modern Businesses Need Custom Software Development
 
 ## Introduction
