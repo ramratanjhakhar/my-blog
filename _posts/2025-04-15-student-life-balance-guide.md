@@ -2,7 +2,7 @@
 title: "Balancing Studies and Social Life: A Student's Survival Guide"
 description: "Practical tips for college students to maintain academic excellence while enjoying a fulfilling social life."
 author: "Ramratan Jakhar"
-date: 2025-04-15
+date: 2025-04-26
 categories: [Student Life, Productivity, Education]
 tags: [Time Management, Study Tips, College Life]
 image: /assets/images/student-balance.jpg
