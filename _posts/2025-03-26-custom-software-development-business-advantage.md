@@ -9,7 +9,7 @@ image: /assets/images/custom-software-hero.jpg
 permalink: /custom-software-development-business-advantage/
 ---
 
-![Custom Software Solutions]({{site.baseurl}}/assets/images/custom-software-hero.jpg){: .img-fluid .shadow-lg }
+![Custom Software Solutions]({{site.baseurl}}/assets/images/blog1.jpeg){: .img-fluid .shadow-lg }
 *Image: Tailored digital solutions transforming business operations*
 
 ## The Off-the-Shelf Software Dilemma 
