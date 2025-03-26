@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "My second Blog Post"
+title: "My Second Blog Post"
 date: 2025-03-27
-permalink: /My second Blog Post/
+permalink: /my-second-blog-post/
+published: true  # Optional but recommended
 ---
 
-# My second Blog Post
+# My Second Blog Post
 
 Welcome to my second blog post! This is an example of how it will look.
