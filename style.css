@@ -93,7 +93,7 @@ nav a:hover {
 .read-more {
     display: inline-block;
     margin-top: 10px;
-    color: #fff;
+    color: #fff !important;
     background-color: #007bff;
     padding: 8px 12px;
     border-radius: 5px;
