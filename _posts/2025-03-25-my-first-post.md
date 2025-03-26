@@ -2,7 +2,7 @@
 layout: post
 title: "My First Blog Post"
 date: 2025-03-25
-permalink: /my-first-post/
+permalink: /My First Blog Post/
 ---
 
 # My First Blog Post
