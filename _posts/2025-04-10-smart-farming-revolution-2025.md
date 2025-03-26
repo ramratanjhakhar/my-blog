@@ -1,4 +1,3 @@
-
 ---
 title: "How Smart Farming is Revolutionizing Agriculture in 2025"
 description: "Explore cutting-edge farming technologies boosting yields, reducing costs, and creating sustainable agriculture solutions for the future."
