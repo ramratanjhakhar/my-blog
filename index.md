@@ -12,6 +12,7 @@ title: "my-blog"
         <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
         <p class="date">{{ post.date | date: "%B %d, %Y" }}</p>
         <p>{{ post.excerpt }}</p>
+        <p>{{ post.author }}</p>
         <a class="read-more" href="{{ site.baseurl }}{{ post.url }}">Read More</a>
     </div>
 {% endfor %}
