@@ -10,7 +10,7 @@ permalink: /why-custom-software-development-future-business-growth/
 author: "Your Name"
 ---
 
-![Custom Software Development](/assets/img/custom-software-development.jpg){: .img-right }
+![Custom Software Development](/assets/img/blog4.jpeg){: .img-right }
 *Tailored software solutions driving business efficiency*
 
 ## Introduction
