@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My another Blog Post"
-date: 2025-03-25
+date: 2025-03-26
 permalink: /My another Blog Post/
 ---
 
