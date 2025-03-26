@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Why Custom Software Development is the Future of Business Growth"
-date: 2025-03-27
-last_modified_at: 2025-03-27
+date: 2025-03-26
+last_modified_at: 2025-03-26
 categories: [software, business, technology]
 tags: [custom-software, digital-transformation, ai]
 image: /assets/img/custom-software-development.jpg
