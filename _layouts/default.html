@@ -1,14 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
 </head>
 <body>
-  <div class="container">
-    {{ content }}
-  </div>
+
+    <header>
+        <h1><a href="{{ site.baseurl }}/">My Blog</a></h1>
+    </header>
+
+    <main class="container">
+        <article class="blog-post">
+            <h1>{{ page.title }}</h1>
+            <p class="date">Published on {{ page.date | date: "%B %d, %Y" }}</p>
+            <hr>
+            <div class="content">
+                {{ content }}
+            </div>
+        </article>
+        <a class="back-link" href="{{ site.baseurl }}/">← Back to Home</a>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 My Blog | Powered by Jekyll</p>
+    </footer>
+
 </body>
 </html>
