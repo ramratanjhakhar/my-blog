@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "My Blog"
+title: "my-blog"
 ---
 
 <h1>Welcome to My Blog</h1>
