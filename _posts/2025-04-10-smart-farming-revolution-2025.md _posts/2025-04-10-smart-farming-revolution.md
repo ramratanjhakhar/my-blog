@@ -1,5 +1,5 @@
 ---
-title: "smart-farming-revolution-2025"
+title: "title: "How Smart Farming is Revolutionizing Agriculture in 2025"
 description: "Explore cutting-edge farming technologies boosting yields, reducing costs, and creating sustainable agriculture solutions for the future."
 author: "Ramratan Jakhar"
 date: 2025-04-10
