@@ -9,7 +9,7 @@ image: /assets/images/sports-tech-2025.jpg
 permalink: /sports-technology-2025/
 ---
 
-![Sports Technology Innovations]({{site.baseurl}}/assets/images/sports-tech-2025.jpg){: .img-fluid .rounded-lg .shadow }
+![Sports Technology Innovations]({{site.baseurl}}/assets/images/blog2.jpeg){: .img-fluid .rounded-lg .shadow }
 *Athletes using cutting-edge tech to enhance performance (Image: Getty Sports)*
 
 ## The New Playing Field: 2025 Sports Tech Landscape
