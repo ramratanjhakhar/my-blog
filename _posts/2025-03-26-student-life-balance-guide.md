@@ -9,7 +9,7 @@ image: /assets/images/student-balance.jpg
 permalink: /student-life-balance-guide/
 ---
 
-![Student balancing books and social life]({{site.baseurl}}/assets/images/student-balance.jpg){: .img-fluid .rounded-lg }
+![Student balancing books and social life]({{site.baseurl}}/assets/images/blog3.jpeg){: .img-fluid .rounded-lg }
 *Finding the perfect equilibrium between academics and social activities*
 
 ## The College Juggling Act
