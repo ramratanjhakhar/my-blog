@@ -3,7 +3,6 @@ layout: default
 title: "my-blog"
 ---
 
-<h1>Welcome to My Blog</h1>
 <p>Read the latest articles below:</p>
 
 <div class="blog-list">
